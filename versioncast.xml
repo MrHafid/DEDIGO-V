@@ -4,7 +4,13 @@
     <title>DEDIGO</title>
     <item>
         <title>Version 2.0</title>
-        <description>desc Версия</description>
+        <description>
+        - Berita Publik dan Desa
+        - Tempat Wisata
+        - Warung Desa
+
+        Aplikasi DEDiGO adalah Platform yang menyediakan pelayanan desa serta memberikan pemasukan desa dengan fasilitas yang disediakan oleh UMKM desa dll, seperti tempat wisata, hasil perkebunan dan sebagainya.  
+        </description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.digital.desaku.desadigital" sparkle:version="2.0" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
