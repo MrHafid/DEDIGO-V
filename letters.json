@@ -1,0 +1,42 @@
+[
+    {
+        "name": "SKCK",
+        "description": "SKCK merupakan surat keterangan yang dikeluarkan kepolisian lewat fungsi Intelkam. Surat ini diterbitkan atas permohonan seorang warga. Isinya menerangkan pemohon tercatat tidak pernah tersangkut kasus kriminal atau melakukan kejahatan"
+    },
+    {
+        "name": "SKTM",
+        "description": "SKTM atau Surat Keterangan Tidak Mampu adalah surat yang digunakan untuk keperluan keringanan biaya obat, pengajuan beasiswa, permohonan bantuan, dan lain sebagainya."
+    },
+    {
+        "name": "Kelahiran",
+        "description": "Surat Keterangan Kelahiran adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang anak telah lahir."
+    },
+    {
+        "name": "Kematian",
+        "description": "Surat Keterangan Kematian adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah meninggal dunia."
+    },
+    {
+        "name": "SKU",
+        "description": "Surat Keterangan Usaha adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah memulai usaha."
+    },
+    {
+        "name": "Domisili Warga",
+        "description": "Surat Keterangan Domisili Warga adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini."
+    },
+    {
+        "name": "Domisili Ormas",
+        "description": "Surat Keterangan Domisili Ormas adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini."
+    },
+    {
+        "name": "Domisili Usaha",
+        "description": "Surat Keterangan Domisili Usaha adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini."
+    },
+    {
+        "name": "Domisili Sekolah",
+        "description": "Surat Keterangan Domisili Sekolah adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini."
+    },
+    {
+        "name": "Domisili Ponpes",
+        "description": "Surat Keterangan Domisili Ponpes adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini."
+    }
+]
