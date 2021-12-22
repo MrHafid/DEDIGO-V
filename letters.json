@@ -1,6 +1,7 @@
 [
     {
         "name": "SKCK",
+        "key": "SKCK",
         "description": "SKCK merupakan surat keterangan yang dikeluarkan kepolisian lewat fungsi Intelkam. Surat ini diterbitkan atas permohonan seorang warga. Isinya menerangkan pemohon tercatat tidak pernah tersangkut kasus kriminal atau melakukan kejahatan",
         "save": {
             "url": "mailing/save_skck",
@@ -36,6 +37,7 @@
     },
     {
         "name": "SKTM",
+        "key": "SKTM",
         "description": "SKTM atau Surat Keterangan Tidak Mampu adalah surat yang digunakan untuk keperluan keringanan biaya obat, pengajuan beasiswa, permohonan bantuan, dan lain sebagainya.",
         "save": {
             "url": "mailing/save_sktm"
@@ -52,6 +54,7 @@
     },
     {
         "name": "Kelahiran",
+        "key": "Kelahiran",
         "description": "Surat Keterangan Kelahiran adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang anak telah lahir.",
         "save": {
             "url": "mailing/save_kelahiran"
@@ -68,6 +71,7 @@
     },
     {
         "name": "Kematian",
+        "key": "Kematian",
         "description": "Surat Keterangan Kematian adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah meninggal dunia.",
         "save": {
             "url": "mailing/save_kematian"
@@ -84,6 +88,7 @@
     },
     {
         "name": "SKU",
+        "key": "SKU",
         "description": "Surat Keterangan Usaha adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah memulai usaha.",
         "save": {
             "url": "mailing/save_sku"
@@ -100,6 +105,7 @@
     },
     {
         "name": "Domisili Warga",
+        "key": "Domisili_Warga",
         "description": "Surat Keterangan Domisili Warga adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
         "save": {
             "url": "mailing/save_dom_warga"
@@ -116,6 +122,7 @@
     },
     {
         "name": "Domisili Ormas",
+        "key": "Domisili_Ormas",
         "description": "Surat Keterangan Domisili Ormas adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
         "save": {
             "url": "mailing/save_dom_ormas"
@@ -132,6 +139,7 @@
     },
     {
         "name": "Domisili Usaha",
+        "key": "Domisili_Usaha",
         "description": "Surat Keterangan Domisili Usaha adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
         "save": {
             "url": "mailing/save_dom_usaha"
@@ -148,6 +156,7 @@
     },
     {
         "name": "Domisili Sekolah",
+        "key": "Domisili_Sekolah",
         "description": "Surat Keterangan Domisili Sekolah adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
         "save": {
             "url": "mailing/save_dom_sekolah"
@@ -164,6 +173,7 @@
     },
     {
         "name": "Domisili Ponpes",
+        "key": "Domisili_Ponpes",
         "description": "Surat Keterangan Domisili Ponpes adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
         "save": {
             "url": "mailing/save_dom_ponpes"
