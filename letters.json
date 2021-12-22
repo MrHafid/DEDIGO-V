@@ -105,7 +105,7 @@
     },
     {
         "name": "Domisili Warga",
-        "key": "Domisili_Warga",
+        "key": "DomisiliWarga",
         "description": "Surat Keterangan Domisili Warga adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
         "save": {
             "url": "mailing/save_dom_warga"
@@ -122,7 +122,7 @@
     },
     {
         "name": "Domisili Ormas",
-        "key": "Domisili_Ormas",
+        "key": "DomisiliOrmas",
         "description": "Surat Keterangan Domisili Ormas adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
         "save": {
             "url": "mailing/save_dom_ormas"
@@ -139,7 +139,7 @@
     },
     {
         "name": "Domisili Usaha",
-        "key": "Domisili_Usaha",
+        "key": "DomisiliUsaha",
         "description": "Surat Keterangan Domisili Usaha adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
         "save": {
             "url": "mailing/save_dom_usaha"
@@ -156,7 +156,7 @@
     },
     {
         "name": "Domisili Sekolah",
-        "key": "Domisili_Sekolah",
+        "key": "DomisiliSekolah",
         "description": "Surat Keterangan Domisili Sekolah adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
         "save": {
             "url": "mailing/save_dom_sekolah"
@@ -173,7 +173,7 @@
     },
     {
         "name": "Domisili Ponpes",
-        "key": "Domisili_Ponpes",
+        "key": "DomisiliPonpes",
         "description": "Surat Keterangan Domisili Ponpes adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
         "save": {
             "url": "mailing/save_dom_ponpes"
