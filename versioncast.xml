@@ -3,15 +3,16 @@
   <channel>
     <title>DEDIGO</title>
     <item>
-        <title>Version 1.0.2</title>
+        <title>Version 1.0.4</title>
         <description>
-Berita Publik dan Desa
-Tempat Wisata
-Warung Desa
+Penambahan Fitur Surat
+Penambahan Fitur Lapor BPD
+Penambahan Fitur Info Desa
+Penambahan Fitur Lainnya
 Pembaruan Sisi Kecil
         </description>
-        <pubDate>Sun, 28 Nov 2021 15:20:11 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.digital.desaku.desadigital" sparkle:version="1.0.2" />
+        <pubDate>Sun, 21 Des 2021 15:20:11 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.digital.desaku.desadigital" sparkle:version="1.0.4" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
   </channel>
