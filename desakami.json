@@ -1,242 +1,242 @@
 [
-{
-"name": "SKCK",
-"key": "SKCK",
-"description": "SKCK merupakan surat keterangan yang dikeluarkan kepolisian lewat fungsi Intelkam. Surat ini diterbitkan atas permohonan seorang warga. Isinya menerangkan pemohon tercatat tidak pernah tersangkut kasus kriminal atau melakukan kejahatan",
-"save": {
-"url": "mailing/save_skck",
-"field": [
-{
-"key": "nik",
-"type": "number"
-},
-{
-"key": "nama_lengkap",
-"type": "number"
-},
-{
-"key": "jenis_kelamin",
-"type": "number"
-},
-{
-"key": "tempat_lahir",
-"type": "number"
-},
-{
-"key": "tanggal_lahir",
-"type": "number"
-},
-{
-"key": "agama",
-"type": "number"
-},
-{
-"key": "pekerjaan",
-"type": "number"
-},
-{
-"key": "status",
-"type": "number"
-},
-{
-"key": "warga_negara",
-"type": "number"
-},
-{
-"key": "alamat",
-"type": "number"
-},
-{
-"key": "rt",
-"type": "number"
-},
-{
-"key": "rw",
-"type": "number"
-},
-{
-"key": "desa",
-"type": "number"
-},
-{
-"key": "kecamatan",
-"type": "number"
-},
-{
-"key": "kabupaten",
-"type": "number"
-},
-{
-"key": "provinsi",
-"type": "number"
-},
-{
-"key": "keperluan",
-"type": "number"
-}
-]
-},
-"update": {
-"url": "mailing/update_skck"
-},
-"get": {
-"url": "mailing/get_skck"
-},
-"print": {
-"url": "mailing/print_skck"
-}
-},
-{
-"name": "SKTM",
-"key": "SKTM",
-"description": "SKTM atau Surat Keterangan Tidak Mampu adalah surat yang digunakan untuk keperluan keringanan biaya obat, pengajuan beasiswa, permohonan bantuan, dan lain sebagainya.",
-"save": {
-"url": "mailing/save_sktm"
-},
-"update": {
-"url": "mailing/update_sktm"
-},
-"get": {
-"url": "mailing/get_sktm"
-},
-"print": {
-"url": "mailing/print_sktm"
-}
-},
-{
-"name": "Kelahiran",
-"key": "Kelahiran",
-"description": "Surat Keterangan Kelahiran adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang anak telah lahir.",
-"save": {
-"url": "mailing/save_kelahiran"
-},
-"update": {
-"url": "mailing/update_kelahiran"
-},
-"get": {
-"url": "mailing/get_kelahiran"
-},
-"print": {
-"url": "mailing/print_kelahiran"
-}
-},
-{
-"name": "Kematian",
-"key": "Kematian",
-"description": "Surat Keterangan Kematian adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah meninggal dunia.",
-"save": {
-"url": "mailing/save_kematian"
-},
-"update": {
-"url": "mailing/update_kematian"
-},
-"get": {
-"url": "mailing/get_kematian"
-},
-"print": {
-"url": "mailing/print_kematian"
-}
-},
-{
-"name": "SKU",
-"key": "SKU",
-"description": "Surat Keterangan Usaha adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah memulai usaha.",
-"save": {
-"url": "mailing/save_sku"
-},
-"update": {
-"url": "mailing/update_sku"
-},
-"get": {
-"url": "mailing/get_sku"
-},
-"print": {
-"url": "mailing/print_sku"
-}
-},
-{
-"name": "Domisili Warga",
-"key": "Dom_Warga",
-"description": "Surat Keterangan Domisili Warga adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
-"save": {
-"url": "mailing/save_dom_warga"
-},
-"update": {
-"url": "mailing/update_dom_warga"
-},
-"get": {
-"url": "mailing/get_dom_warga"
-},
-"print": {
-"url": "mailing/print_dom_warga"
-}
-},
-{
-"name": "Domisili Ormas",
-"key": "Dom_Ormas",
-"description": "Surat Keterangan Domisili Ormas adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
-"save": {
-"url": "mailing/save_dom_ormas"
-},
-"update": {
-"url": "mailing/update_dom_ormas"
-},
-"get": {
-"url": "mailing/get_dom_ormas"
-},
-"print": {
-"url": "mailing/print_dom_ormas"
-}
-},
-{
-"name": "Domisili Usaha",
-"key": "Dom_Usaha",
-"description": "Surat Keterangan Domisili Usaha adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
-"save": {
-"url": "mailing/save_dom_usaha"
-},
-"update": {
-"url": "mailing/update_dom_usaha"
-},
-"get": {
-"url": "mailing/get_dom_usaha"
-},
-"print": {
-"url": "mailing/print_dom_usaha"
-}
-},
-{
-"name": "Domisili Sekolah",
-"key": "Dom_Sekolah",
-"description": "Surat Keterangan Domisili Sekolah adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
-"save": {
-"url": "mailing/save_dom_sekolah"
-},
-"update": {
-"url": "mailing/update_dom_sekolah"
-},
-"get": {
-"url": "mailing/get_dom_sekolah"
-},
-"print": {
-"url": "mailing/print_dom_sekolah"
-}
-},
-{
-"name": "Domisili Ponpes",
-"key": "Dom_Ponpes",
-"description": "Surat Keterangan Domisili Ponpes adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
-"save": {
-"url": "mailing/save_dom_ponpes"
-},
-"update": {
-"url": "mailing/update_dom_ponpes"
-},
-"get": {
-"url": "mailing/get_dom_ponpes"
-},
-"print": {
-"url": "mailing/print_dom_ponpes"
-}
-}
+  {
+    "name": "SKCK",
+    "key": "SKCK",
+    "description": "SKCK merupakan surat keterangan yang dikeluarkan kepolisian lewat fungsi Intelkam. Surat ini diterbitkan atas permohonan seorang warga. Isinya menerangkan pemohon tercatat tidak pernah tersangkut kasus kriminal atau melakukan kejahatan",
+    "save": {
+      "url": "mailing/save_skck",
+      "field": [
+        {
+          "key": "nik",
+          "type": "number"
+        },
+        {
+          "key": "nama_lengkap",
+          "type": "number"
+        },
+        {
+          "key": "jenis_kelamin",
+          "type": "number"
+        },
+        {
+          "key": "tempat_lahir",
+          "type": "number"
+        },
+        {
+          "key": "tanggal_lahir",
+          "type": "number"
+        },
+        {
+          "key": "agama",
+          "type": "number"
+        },
+        {
+          "key": "pekerjaan",
+          "type": "number"
+        },
+        {
+          "key": "status",
+          "type": "number"
+        },
+        {
+          "key": "warga_negara",
+          "type": "number"
+        },
+        {
+          "key": "alamat",
+          "type": "number"
+        },
+        {
+          "key": "rt",
+          "type": "number"
+        },
+        {
+          "key": "rw",
+          "type": "number"
+        },
+        {
+          "key": "desa",
+          "type": "number"
+        },
+        {
+          "key": "kecamatan",
+          "type": "number"
+        },
+        {
+          "key": "kabupaten",
+          "type": "number"
+        },
+        {
+          "key": "provinsi",
+          "type": "number"
+        },
+        {
+          "key": "keperluan",
+          "type": "number"
+        }
+      ]
+    },
+    "update": {
+      "url": "mailing/update_skck"
+    },
+    "get": {
+      "url": "mailing/get_skck"
+    },
+    "print": {
+      "url": "mailing/print_skck"
+    }
+  },
+  {
+    "name": "SKTM",
+    "key": "SKTM",
+    "description": "SKTM atau Surat Keterangan Tidak Mampu adalah surat yang digunakan untuk keperluan keringanan biaya obat, pengajuan beasiswa, permohonan bantuan, dan lain sebagainya.",
+    "save": {
+      "url": "mailing/save_sktm"
+    },
+    "update": {
+      "url": "mailing/update_sktm"
+    },
+    "get": {
+      "url": "mailing/get_sktm"
+    },
+    "print": {
+      "url": "mailing/print_sktm"
+    }
+  },
+  {
+    "name": "Kelahiran",
+    "key": "Kelahiran",
+    "description": "Surat Keterangan Kelahiran adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang anak telah lahir.",
+    "save": {
+      "url": "mailing/save_kelahiran"
+    },
+    "update": {
+      "url": "mailing/update_kelahiran"
+    },
+    "get": {
+      "url": "mailing/get_kelahiran"
+    },
+    "print": {
+      "url": "mailing/print_kelahiran"
+    }
+  },
+  {
+    "name": "Kematian",
+    "key": "Kematian",
+    "description": "Surat Keterangan Kematian adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah meninggal dunia.",
+    "save": {
+      "url": "mailing/save_kematian"
+    },
+    "update": {
+      "url": "mailing/update_kematian"
+    },
+    "get": {
+      "url": "mailing/get_kematian"
+    },
+    "print": {
+      "url": "mailing/print_kematian"
+    }
+  },
+  {
+    "name": "SKU",
+    "key": "SKU",
+    "description": "Surat Keterangan Usaha adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah memulai usaha.",
+    "save": {
+      "url": "mailing/save_sku"
+    },
+    "update": {
+      "url": "mailing/update_sku"
+    },
+    "get": {
+      "url": "mailing/get_sku"
+    },
+    "print": {
+      "url": "mailing/print_sku"
+    }
+  },
+  {
+    "name": "Domisili Warga",
+    "key": "Dom_Warga",
+    "description": "Surat Keterangan Domisili Warga adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
+    "save": {
+      "url": "mailing/save_dom_warga"
+    },
+    "update": {
+      "url": "mailing/update_dom_warga"
+    },
+    "get": {
+      "url": "mailing/get_dom_warga"
+    },
+    "print": {
+      "url": "mailing/print_dom_warga"
+    }
+  },
+  {
+    "name": "Domisili Ormas",
+    "key": "Dom_Ormas",
+    "description": "Surat Keterangan Domisili Ormas adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
+    "save": {
+      "url": "mailing/save_dom_ormas"
+    },
+    "update": {
+      "url": "mailing/update_dom_ormas"
+    },
+    "get": {
+      "url": "mailing/get_dom_ormas"
+    },
+    "print": {
+      "url": "mailing/print_dom_ormas"
+    }
+  },
+  {
+    "name": "Domisili Usaha",
+    "key": "Dom_Usaha",
+    "description": "Surat Keterangan Domisili Usaha adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
+    "save": {
+      "url": "mailing/save_dom_usaha"
+    },
+    "update": {
+      "url": "mailing/update_dom_usaha"
+    },
+    "get": {
+      "url": "mailing/get_dom_usaha"
+    },
+    "print": {
+      "url": "mailing/print_dom_usaha"
+    }
+  },
+  {
+    "name": "Domisili Sekolah",
+    "key": "Dom_Sekolah",
+    "description": "Surat Keterangan Domisili Sekolah adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
+    "save": {
+      "url": "mailing/save_dom_sekolah"
+    },
+    "update": {
+      "url": "mailing/update_dom_sekolah"
+    },
+    "get": {
+      "url": "mailing/get_dom_sekolah"
+    },
+    "print": {
+      "url": "mailing/print_dom_sekolah"
+    }
+  },
+  {
+    "name": "Domisili Ponpes",
+    "key": "Dom_Ponpes",
+    "description": "Surat Keterangan Domisili Ponpes adalah surat yang dikeluarkan oleh pemerintah setempat untuk menyatakan bahwa seorang warga telah berdomisili di wilayah yang sama dengan yang dikeluarkan surat keterangan ini.",
+    "save": {
+      "url": "mailing/save_dom_ponpes"
+    },
+    "update": {
+      "url": "mailing/update_dom_ponpes"
+    },
+    "get": {
+      "url": "mailing/get_dom_ponpes"
+    },
+    "print": {
+      "url": "mailing/print_dom_ponpes"
+    }
+  }
 ]
