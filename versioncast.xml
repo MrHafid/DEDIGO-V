@@ -3,12 +3,13 @@
   <channel>
     <title>DEDIGO</title>
     <item>
-        <title>Version 1.0.17</title>
-        <description>Pembaruan Bug & Sisi Kecil
+        <title>Version 1.0.19</title>
+        <description>Maintenance rutin app
+Adding support Android 11+
 
       </description>
         <pubDate>Mon, 14 Feb 2022 06:20:11 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.digital.desaku.desadigital" sparkle:version="1.0.17" />
+        <enclosure url="https://play.google.com/store/apps/details?id=com.digital.desaku.desadigital" sparkle:version="1.0.19" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
   </channel>
